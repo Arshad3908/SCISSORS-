@@ -1,0 +1,21 @@
+{
+    "name": "Scissor",
+    "short_name": "OHP",
+    "version": "1.0",
+    "start_url":"index.html",
+    "display": "standalone",
+    "describtion": "",
+    "scope": "/",
+    "orientation": "portrait-primary",
+    "background-color": "blue",
+    "theme-color": "blue",
+    "icons": [{
+        "src": "./IMG_0239.JPG",
+        "sizes": "192x192"
+    }],
+    "offline_access": true,
+    "serviceworker": {
+        "src": "worker.js",
+        "scope": "/"
+    }
+}
