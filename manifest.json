@@ -10,7 +10,7 @@
     "background-color": "blue",
     "theme-color": "blue",
     "icons": [{
-        "src": "./IMG_0239.JPG",
+        "src": "images/WebSearch_link_Building.webp",
         "sizes": "192x192"
     }],
     "offline_access": true,
