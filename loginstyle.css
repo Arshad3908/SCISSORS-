@@ -113,7 +113,7 @@ button:hover{
     transition:1s;
 }
 .icons i:hover{
-    background:#0065fe;
+    background:#ffff;
     font-size:1.6rem;
     border:2px solid #0065fe;
 }
